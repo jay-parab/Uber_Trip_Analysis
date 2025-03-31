@@ -55,7 +55,7 @@ The dataset consists of two key tables:
 🔸 **Conditional Formatting & Sorting** – Highlighting key trends  
 
 📸 **Dashboard Screenshot:**  
-![Dashboard 1 - Overview Analysis](your-dashboard-1-screenshot-url-here)  
+![your-dashboard-1-screenshot-url-here](https://github.com/jay-parab/Uber_Trip_Analysis/blob/main/Uber%20Trip%20Analysis%20Dashboard%20Screenshot.png?raw=true)
 
 ---
 
@@ -70,7 +70,7 @@ The dataset consists of two key tables:
 🔸 **Heatmap (Hour vs. Day)** – Pinpoints surge pricing opportunities  
 
 📸 **Dashboard Screenshot:**  
-![Dashboard 1 - Overview Analysis](your-dashboard-1-screenshot-url-here)  
+![Dashboard 2 - Time Analysis](https://github.com/jay-parab/Uber_Trip_Analysis/blob/main/Uber%20Trip%20Analysis%20Dashboard%202%20Screenshot.png?raw=true)
 
 ---
 
@@ -86,7 +86,7 @@ The dataset consists of two key tables:
 🔹 **Conditional Formatting & Tooltips** – Improved user experience  
 
 📸 **Dashboard Screenshot:**  
-![Dashboard 1 - Overview Analysis](your-dashboard-1-screenshot-url-here)  
+![Dashboard 3 - Details Tab](your-dashboard-1-screenshot-url-here)  
 
 ---
 
