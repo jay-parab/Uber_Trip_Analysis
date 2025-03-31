@@ -86,15 +86,12 @@ The dataset consists of two key tables:
 🔹 **Conditional Formatting & Tooltips** – Improved user experience  
 
 📸 **Dashboard Screenshot:**  
-![Dashboard 3 - Details Tab](your-dashboard-1-screenshot-url-here)  
+![Dashboard 3 - Details Tab](https://github.com/jay-parab/Uber_Trip_Analysis/blob/main/Uber%20Trip%20Analysis%20Dashboard%203%20Screenshot.png?raw=true)
 
 ---
 
 ## 🎥 Live Demo & Screenshots  
 📹 **[Video Walkthrough](your-video-link-here)** – See the dashboard in action  
-📸 **Screenshots** –  
-![Screenshot 1](your-image-url-here)  
-![Screenshot 2](your-image-url-here)  
 
 ---
 
@@ -118,13 +115,6 @@ The dataset consists of two key tables:
 ✔ **Optimizing Performance** – Efficiently managing large datasets in Power BI  
 ✔ **Dynamic Visuals & Interactivity** – Creating an engaging user experience  
 ✔ **Enhancing Analytical Depth** – Extracting valuable insights for decision-making  
-
----
-
-## 📬 Let's Connect!  
-🔗 **[LinkedIn](your-linkedin-link)**  
-🔗 **[Portfolio](your-portfolio-link)**  
-🔗 **[GitHub](your-github-profile)**  
 
 ---
 
