@@ -1,16 +1,43 @@
 # 🚖 Uber Trip Analysis – Power BI Dashboard  
 
-![Uber Dashboard Screenshot]([Uber Trip Analysis Dashboard Screenshot.png](https://github.com/jay-parab/Uber_Trip_Analysis/blob/main/Uber%20Trip%20Analysis%20Dashboard%20Screenshot.png?raw=true))  
+![Uber Screenshot](https://github.com/jay-parab/Uber_Trip_Analysis/blob/main/Uber%20Trip%20Analysis%20Dashboard%20Screenshot.png?raw=true)
 
 ## 📌 Project Overview  
 This Power BI dashboard analyzes Uber trip data to uncover **booking trends, revenue insights, and trip efficiency metrics**. It helps stakeholders **optimize pricing, enhance operational efficiency, and improve customer experience** by leveraging interactive visualizations and data analytics.  
 
-## 📂 Dataset & Sources  
-- **Source:** [Mention source, e.g., Kaggle, Uber API, Mock Dataset]  
-- **Data Size:** [e.g., 50,000+ trip records]  
-- **Key Fields:** Booking ID, Trip Distance, Booking Value, Payment Type, Pickup & Drop-off Location, Time of Day  
-- **Preprocessing:** Data cleaning, transformations, and relationships were handled in **Power Query & DAX**  
+## 📂 Dataset Overview  
+The dataset consists of two key tables:  
 
+1️⃣ **Trip Details Table** – Contains information on individual Uber rides, including timing, distance, fare details, and vehicle type.  
+2️⃣ **Location Table** – Maps numerical **Location IDs** to actual area names and cities, enabling **pickup and drop-off analysis**.  
+
+---
+
+### 📄 **Trip Details Table**  
+| Column Name        | Description  |
+|--------------------|-------------|
+| **Trip ID**       | Unique identifier assigned to each Uber trip. Helps track individual rides.  |
+| **Pickup Time**   | Date and time when the passenger was picked up. Used for analyzing trip trends, peak hours, and total ride duration.  |
+| **Drop-Off Time** | Date and time when the passenger was dropped off. Used to calculate trip duration and analyze trip completion trends.  |
+| **Passenger Count** | Number of passengers in the trip. Helps understand ride-sharing patterns and demand for different vehicle types.  |
+| **Trip Distance** | Distance covered during the trip (in miles). Used for fare calculation, efficiency analysis, and identifying long/short trips.  |
+| **PULocationID** | Numeric code representing the pickup location. Linked to a location table to get the actual pickup area name.  |
+| **DOLocationID** | Numeric code representing the drop-off location. Used for destination analysis, ride patterns, and demand forecasting.  |
+| **Payment Type** | Mode of payment (e.g., credit card, cash, wallet). Helps in financial analysis and understanding customer preferences.  |
+| **Fare Amount** | Base fare charged for the trip before additional fees. Essential for revenue analysis and pricing strategy.  |
+| **Surge Fee** | Extra charge applied during high-demand periods. Helps in understanding surge pricing patterns and peak-hour demand.  |
+| **Vehicle Type** | Type of Uber service used (e.g., UberX, UberXL, Uber Black). Used for analyzing vehicle demand and customer preferences.  |
+
+---
+
+### 📄 **Location Table**  
+| Column Name  | Description  |
+|-------------|-------------|
+| **LocationID** | Unique identifier for each location in the dataset. Serves as a key to link locations to trips.  |
+| **Location** | Name of the area or neighborhood where pickups and drop-offs occur.  |
+| **City** | City in which the location exists, helping in geographic segmentation and analysis.  |
+
+---
 ## 📊 Key KPIs & Insights  
 
 ### ✅ Dashboard 1: Overview Analysis  
@@ -26,6 +53,9 @@ This Power BI dashboard analyzes Uber trip data to uncover **booking trends, rev
 🔸 **Top 5 Locations by Bookings** – Identify high-demand areas  
 🔸 **Most Preferred Vehicle per Location** – Optimize vehicle distribution  
 🔸 **Conditional Formatting & Sorting** – Highlighting key trends  
+
+📸 **Dashboard Screenshot:**  
+![Dashboard 1 - Overview Analysis](your-dashboard-1-screenshot-url-here)  
 
 ---
 
