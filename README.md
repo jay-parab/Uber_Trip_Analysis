@@ -104,13 +104,6 @@ The dataset consists of two key tables:
 
 ---
 
-## 🚀 How to Use the Dashboard  
-1️⃣ Download the **[.pbix file](your-file-link-here)** (if available)  
-2️⃣ Open it in **Power BI Desktop**  
-3️⃣ Explore insights using slicers and interactive visuals  
-
----
-
 ## 💡 Key Learnings & Challenges  
 ✔ **Optimizing Performance** – Efficiently managing large datasets in Power BI  
 ✔ **Dynamic Visuals & Interactivity** – Creating an engaging user experience  
