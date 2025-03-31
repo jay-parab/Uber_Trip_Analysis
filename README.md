@@ -69,6 +69,9 @@ The dataset consists of two key tables:
 🔸 **10-Minute Interval Trends** – Detects micro-trends in ride demand  
 🔸 **Heatmap (Hour vs. Day)** – Pinpoints surge pricing opportunities  
 
+📸 **Dashboard Screenshot:**  
+![Dashboard 1 - Overview Analysis](your-dashboard-1-screenshot-url-here)  
+
 ---
 
 ### ✅ Dashboard 3: Details Tab  
@@ -81,6 +84,9 @@ The dataset consists of two key tables:
 🔹 **Clear Slicer Button** – One-click reset for all filters  
 🔹 **Download Raw Data Button** – Export data for further analysis  
 🔹 **Conditional Formatting & Tooltips** – Improved user experience  
+
+📸 **Dashboard Screenshot:**  
+![Dashboard 1 - Overview Analysis](your-dashboard-1-screenshot-url-here)  
 
 ---
 
